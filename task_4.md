@@ -37,10 +37,10 @@ ___жирный курсив___
     - Подпункт второй
 2. Пункт второй
 
-[Текст](https://www.example.com)
+[Текст](https://ru.wikipedia.org/wiki/Севастопольский_государственный_университет)
 
 
-![Картинка](https://www.example.com/image.jpg)
+![Картинка](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/SevSu.jpg/274px-SevSu.jpg)
 
 
 `строка кода`
@@ -96,6 +96,6 @@ print("Привет, МИР!")
 Какой-то контент
 
 
-<http://example.com/>
+<https://ru.wikipedia.org/wiki/Атом>
 
 <address@example.com>
